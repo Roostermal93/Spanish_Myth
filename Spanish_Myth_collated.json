@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
@@ -16,6 +16,13 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Spanish/30c27006-fafa-4843-bbc8-8ccee0ede4ab_es_Male.mp4"
+        },
+        {
+            "id": "3fe7b8ca-f5ec-487f-9d05-199ff25d223d",
+            "collectionId": "Spanish",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Spanish/3fe7b8ca-f5ec-487f-9d05-199ff25d223d_es_Female.mp4"
         },
         {
             "id": "7b676479-9923-4559-8322-9b43d440ee48",
